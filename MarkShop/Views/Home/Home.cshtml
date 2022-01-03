@@ -1,0 +1,146 @@
+﻿
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+<script type="text/javascript" src="https://itexpress.vn/js/noel.js"></script>
+
+<section class="content">
+    <div class="banner" style="margin-top: 76px">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block w-100" src="~/Images/flaunter-RC7bYyG5PUs-unsplash.jpg" alt="First slide" style="height:600px">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="~/Images/clark-street-mercantile-P3pI6xzovu0-unsplash.jpg" alt="Second slide" style="height:600px">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="~/Images/three-g374640d89_1920.jpg" alt="Third slide" style="height:600px">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="~/Images/man-2425121.jpg" alt="Third slide" style="height:600px">
+                </div>
+
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+    @Html.Action("SanPham", "SanPham")
+    <section class="categories container__custom py-5">
+        <div class="row">
+            <div class="col-4">
+                <div class="clothesForMen">
+                    <div class="position-relative item" style="cursor: pointer">
+                        <a href="@Url.Action("SanPhamPartial", "SanPham")">
+                            <img src="~/Images/fabio-scaletta-cYSRncVxE44-unsplash.jpg" class="w-100" />
+                            <div class="details detailsForMen position-absolute">
+                                <h3>TRANG PHỤC NAM</h3>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="clothesForWomen">
+                    <div class="position-relative item" style="cursor: pointer">
+                        <a href="@Url.Action("SanPhamPartial", "SanPham")">
+                            <img src="~/Images/freestocks-8hAsLeE6Fbo-unsplash.jpg" class="w-100" />
+                            <div class="details detailsForWomen position-absolute">
+                                <h3>TRANG PHỤC NỮ</h3>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="row">
+                    <div class="col-12 mb-4">
+                        <div class="PIERRE_CARDING item" style="cursor: pointer">
+                            <a href="@Url.Action("SanPhamPartial", "SanPham")">
+                                <img src="~/Images/2nguoi.jpg" class="w-100" />
+                                <div class="details detailsForPIE position-absolute">
+                                    <h3>PIERRE CARDING</h3>
+                                </div>
+</div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-12 mb-4">
+                        <div class="voucher item" style="cursor: pointer">
+                            <img src="~/Images/qua.jpg" class="w-100" />
+                            <div class="details detailsForPIE position-absolute">
+                                <h3>PHIẾU QUÀ TẶNG</h3>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            
+        
+    </section>
+    <section class="about mb-5 text-white">
+        <div class="about__content container__custom">
+            <h3 class="py-5 font-weight-bold">Công ty</h3>
+            <div class="about__details">
+                <h1>SHOP QUẦN ÁO JOSH SỐNG THEO CÁCH CỦA BẠN</h1>
+                <p class="py-3">Shop chúng tôi luôn mang đến cho khách hàng những sản phẩm thời thượng, chất lượng, đủ các loại quần áo  từ các hãng nổi tiếng với giá thành hợp lí, mang phong cách mà khách hàng chọn thỏa mãn nhu cầu mua sắm của mọi khách hàng.</p>
+                <button class="btn btn-danger">@Html.ActionLink("HIỂU THÊM VỀ CHÚNG TÔI", "GioiThieu", "Home")</button> 
+            </div>
+        </div>
+    </section>
+    <section class="thanhTuu">
+        <div class="container">
+            <div class="row text-center text-white">
+                <div class="col-md-4">
+                    <div class="store items">
+                        <p class="counter">853</p>
+                        <span class="line"></span>
+                        <span>Cửa hàng</span>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="customer items">
+                        <p class="counter">1000</p>
+                        <span class="line"></span>
+                        <span>Khách hàng doanh nghiệp</span>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="productC items">
+                        <p class="counter">15</p>
+                        <span class="line"></span>
+                        <span>Triệu sản phẩm tiêu thụ năm 2020</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="related py-4" data-aos="fade-right" data-aos-duration="1000">
+        <div class="container__custom">
+            <div class="row">
+                <div class="col-3">
+                    <img src="~/Images/chanel.png" class="img-fluid" />
+                </div>
+
+                <div class="col-3">
+                    <img src="~/Images/gucci.jpg" class="img-fluid" />
+                </div>
+                <div class="col-3">
+                    <img src="~/Images/louis vuitton.jpg" class="img-fluid" />
+                </div>
+                <div class="col-3">
+                    <img src="~/Images/berberry.jpg" class="img-fluid" />
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+

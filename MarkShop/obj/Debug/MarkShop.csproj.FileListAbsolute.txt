@@ -1,0 +1,298 @@
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\MarkShop.dll.config
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\MarkShop.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\MarkShop.pdb
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Owin.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\PagedList.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\WebGrease.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\PagedList.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.dll
+C:\Users\Admin\Desktop\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.pdb
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\csc.exe
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\vbc.exe
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\MarkShop.dll.config
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\MarkShop.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\MarkShop.pdb
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Antlr3.Runtime.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\EntityFramework.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Newtonsoft.Json.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Owin.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\PagedList.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\PagedList.Mvc.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.Helpers.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.Mvc.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.Optimization.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.Razor.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\WebGrease.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\PagedList.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\PagedList.Mvc.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.Helpers.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.Mvc.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.Optimization.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.Razor.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Antlr3.Runtime.pdb
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Newtonsoft.Json.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\EntityFramework.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.csproj.AssemblyReference.cache
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.csproj.CoreCompileInputs.cache
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.csproj.CopyComplete
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.dll
+C:\Users\Jackq\Downloads\Đồ án\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.pdb
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\csc.exe
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\vbc.exe
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\MarkShop.dll.config
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\MarkShop.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\MarkShop.pdb
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Antlr3.Runtime.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\EntityFramework.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Newtonsoft.Json.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Owin.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\PagedList.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\PagedList.Mvc.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.Helpers.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.Mvc.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.Optimization.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.Razor.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\WebGrease.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\PagedList.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\PagedList.Mvc.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.Helpers.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.Mvc.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.Optimization.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.Razor.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Antlr3.Runtime.pdb
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Newtonsoft.Json.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\EntityFramework.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.csproj.AssemblyReference.cache
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.csproj.CoreCompileInputs.cache
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.csproj.CopyComplete
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.dll
+C:\Users\Jackq\Downloads\Doan\Đồ án\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.pdb
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\roslyn\csc.exe
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\roslyn\vbc.exe
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\MarkShop.dll.config
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\MarkShop.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\MarkShop.pdb
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Antlr3.Runtime.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\EntityFramework.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Newtonsoft.Json.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Owin.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\PagedList.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\PagedList.Mvc.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\System.Web.Helpers.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\System.Web.Mvc.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\System.Web.Optimization.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\System.Web.Razor.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\WebGrease.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\PagedList.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\PagedList.Mvc.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\System.Web.Helpers.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\System.Web.Mvc.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\System.Web.Optimization.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\System.Web.Razor.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Antlr3.Runtime.pdb
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Newtonsoft.Json.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\EntityFramework.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.csproj.AssemblyReference.cache
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.csproj.CopyComplete
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.dll
+C:\Users\Josh\Downloads\New folder\MarkShop\MarkShop\MarkShop\obj\Debug\MarkShop.pdb
