@@ -56,51 +56,71 @@
             </tbody>
         </table>
         <h3 class="font-weight-bold mt-5">Tổng doanh thu: @String.Format("{0:0,0}", ViewBag.TongDoanhThu) VNĐ</h3>
+        <p>Doanh thu</p>
     </div>
 }
 else
 {
     <h1 class="text-center mb-3 font-weight-bold" data-aos="flip-right">Chưa có đơn hàng nào</h1>
 }
-<canvas id="myChart" width="400" height="400"></canvas>
+<canvas id="myChart" width="300" height="100"></canvas>
+<div style="display:flex;justify-content:center">
+
+    <p>tháng</p>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.6.0/chart.min.js" integrity="sha512-GMGzUEevhWh8Tc/njS0bDpwgxdCJLQBWG3Z2Ct+JGOpVnEmjvNx6ts4v6A2XJf1HOrtOsfhv3hBKpK9kE5z8AQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
+    var arrDataRevenu = []
+    var arrThang = []
+    var arrTongTienTheoThang = []
+    $.ajax({
+        method: "GET",
+        url: "api/thongke",
+        contentType: 'application/json;charset=UTF-8',
+    }).done(function (data) {
+        arrDataRevenu = data
 
-    const ctx = document.getElementById('myChart').getContext('2d');
-    const myChart = new Chart(ctx, {
-        type: 'bar',
-        data: {
-            labels: ['Áo thun nam', 'Áo sơ mi nam', 'Quần jean nữ', 'Quần jogger nữ', 'Áo thun nữ', 'Quần tây nam'],
-            datasets: [{
-                label: 'BIỂU ĐỒ THỐNG KÊ DOANH THU CÁC SẢN PHẨM',
-                data: [12, 19, 3, 5, 2, 3],
-                backgroundColor: [
-                    'rgba(255, 99, 132, 0.2)',
-                    'rgba(54, 162, 235, 0.2)',
-                    'rgba(255, 206, 86, 0.2)',
-                    'rgba(75, 192, 192, 0.2)',
-                    'rgba(153, 102, 255, 0.2)',
-                    'rgba(255, 159, 64, 0.2)'
-                ],
-                borderColor: [
-                    'rgba(255, 99, 132, 1)',
-                    'rgba(54, 162, 235, 1)',
-                    'rgba(255, 206, 86, 1)',
-                    'rgba(75, 192, 192, 1)',
-                    'rgba(153, 102, 255, 1)',
-                    'rgba(255, 159, 64, 1)'
-                ],
-                borderWidth: 1
-            }]
-        },
-        options: {
-            scales: {
-                y: {
-                    beginAtZero: true
+        arrDataRevenu.forEach(item => arrThang.push(item.Thang))
+        arrDataRevenu.forEach(item => arrTongTienTheoThang.push(item.GruopByTongtien))
+        const ctx = document.getElementById('myChart').getContext('2d');
+        const myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: arrThang,
+                datasets: [{
+                    label: 'BIỂU ĐỒ THỐNG KÊ DOANH THU THEO CÁC THÁNG NĂM 2022',
+                    data: arrTongTienTheoThang,
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.2)',
+                        'rgba(54, 162, 235, 0.2)',
+                        'rgba(255, 206, 86, 0.2)',
+                        'rgba(75, 192, 192, 0.2)',
+                        'rgba(153, 102, 255, 0.2)',
+                        'rgba(255, 159, 64, 0.2)'
+                    ],
+                    borderColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(75, 192, 192, 1)',
+                        'rgba(153, 102, 255, 1)',
+                        'rgba(255, 159, 64, 1)'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
                 }
             }
-        }
-    });
-</script>
+        });
+    }).fail(function () { alert("Error") });
+
+
+
 
 </script>

@@ -1,6 +1,7 @@
 ﻿using MarkShop.Models;
 using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.IO;
 using System.Linq;
 using System.Web;
@@ -186,7 +187,49 @@ namespace MarkShop.Controllers
             }
             return TongDoanhThu;
         }
+        public List<Thongke> GetThongkesList()
+        {
+            #region query
+            var sql = @"
+                        select top(5) DATEPART(MONTH,HoaDon.NgayGiao) as MONTH, SUM(SanPham.GiaBan*ChiTietHoaDon.SoLuong)  as 'DoanhThuThang' 
+                        from SanPham
+                        inner join ChiTietHoaDon
+                        on SanPham.MaSP = ChiTietHoaDon.MaSP
+                        inner join HoaDon
+                        on HoaDon.MaHD = ChiTietHoaDon.MaHD
+                        where HoaDon.TinhTrang = 1
+                        group by (HoaDon.NgayGiao)
+";
+            SqlConnection cnn;
+            cnn = new SqlConnection(db.Connection.ConnectionString);
+            SqlDataReader reader;
+            SqlCommand cmd;
+            List<Thongke> listTK = new List<Thongke>();
+            try
+            {
+                cnn.Open();
+                cmd = new SqlCommand(sql, cnn);
+                reader = cmd.ExecuteReader();
+                if (reader.HasRows)
+                {
 
+                    while (reader.Read())
+                    {
+                        listTK.Add(new Thongke() { Thang = (int)reader["MONTH"], GruopByTongtien = (decimal)reader["DoanhThuThang"] });
+
+                    }
+                   
+                }
+
+                cnn.Close();
+            }
+            catch (Exception)
+            {
+              
+            };
+            #endregion
+            return listTK;
+        }
         public ActionResult QuanLiDonHang()
         {
             if (Session["Admin"] == null)
@@ -195,6 +238,12 @@ namespace MarkShop.Controllers
             }
             var loadData = db.ChiTietHoaDons;
             var check = db.ChiTietHoaDons.Count();
+            var listSP = db.SanPhams.ToList();
+            var listCTHD = db.ChiTietHoaDons.ToList();
+            var listHD = db.HoaDons.Where(s=>s.TinhTrang==true).ToList();
+
+            ViewBag.DoanhThuTheoThang = GetThongkesList();
+           
             ViewBag.TongDoanhThu = TongDoanhThu();
             return View(loadData);
         }
